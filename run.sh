@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Prathyusha U DevOps Engineer!"
+echo "Prathyusha U DevOps associate!"
 
