@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Prathyusha U DevOps associate!"
+echo "Prathyusha U AWS DevOps Engineer!"
 
